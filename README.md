@@ -20,18 +20,7 @@ ShopSwift is a frontend e-commerce website developed as part of a learning inter
 
 ---
 
-## 📁 Project Structure
-
-shopswiftproject/
-│
-├── index.html
-├── product_detail.html
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ └── images/
-│ └── (all product and UI images)
-└── README.md
+<pre> ## 📁 Project Structure ``` shopswiftproject/ │ ├── index.html ├── product_detail.html ├── assets/ │ ├── css/ │ │ └── style.css │ └── images/ │ └── (all product and UI images) └── README.md ``` </pre>
 ---
 
 ## ✨ Features
