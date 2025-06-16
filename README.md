@@ -55,7 +55,7 @@ shopswiftproject/
 
 ---
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 No backend functionality (this is a frontend-only static site)
 
@@ -63,13 +63,13 @@ Images must use correct filenames and cases (e.g., Product1.png ≠ product1.png
 
 ---
 
-📄 License
+## 📄 License
 
 This project is intended for personal learning and portfolio use only. Not to be used for commercial deployment.
 
 ---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Internship Studio – for guidance and project tasking.
 
@@ -77,7 +77,9 @@ Open-source assets used for learning purposes.
 
 ---
 
-📬 Contact
-Rizwan Chaudhary
-GitHub: @chaudharyrizwan
-Email: chaudharyrizwan77@gmail.com
+## 📬 Contact
+
+**Name:** Rizwan Chaudhary  
+**GitHub:** [@chaudharyrizwan](https://github.com/chaudharyrizwan)  
+**Email:** chaudharyrizwan77@gmail.com  
+
