@@ -16,8 +16,7 @@ ShopSwift is a frontend e-commerce website developed as part of a learning inter
 
 | Homepage | Product Section |
 |----------|-----------------|
-| ![Home](![image](https://github.com/user-attachments/assets/d0e83dc4-af87-4de9-8b0b-bc531c8282ee)
-) | ![Products](assets/images/Product1.png) |
+|(![image](https://github.com/user-attachments/assets/d0e83dc4-af87-4de9-8b0b-bc531c8282ee)) | ![Products](assets/images/Product1.png) |
 
 ---
 
