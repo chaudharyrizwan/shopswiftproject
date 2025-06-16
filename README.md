@@ -54,14 +54,17 @@ shopswiftproject/
 2. Open index.html in your browser.
 
 ⚠️ Limitations
+
 No backend functionality (this is a frontend-only static site)
 
 Images must use correct filenames and cases (e.g., Product1.png ≠ product1.png)
 
 📄 License
+
 This project is intended for personal learning and portfolio use only. Not to be used for commercial deployment.
 
 🙌 Acknowledgements
+
 Internship Studio – for guidance and project tasking.
 
 Open-source assets used for learning purposes.
